@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voice Dialer</string>
+    <string name="search_hint">Search contacts</string>
+    <string name="speak">Speak</string>
+    <string name="call">Call</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="remove">Remove</string>
+    <string name="refresh">Refresh contacts</string>
+    <string name="auto_listen">Start listening when app opens</string>
+    <string name="try_again">Try again</string>
+    <string name="loading">Loading contacts…</string>
+    <string name="need_contacts">Contacts permission is needed to show your contacts.\n\nTap here to grant it.</string>
+    <string name="no_contacts">No contacts with phone numbers found.</string>
+    <string name="no_matches">No contacts match “%1$s”.</string>
+    <string name="say_prompt">Say “Call” and a name or number</string>
+    <string name="no_recognizer">No speech recognizer found. Install or enable the Google app and try again.</string>
+    <string name="heard">Heard: “%1$s”</string>
+    <string name="not_found">Couldn\'t find a contact called %1$s</string>
+    <string name="which_one">Which one?</string>
+    <string name="which_number">Which number for %1$s?</string>
+    <string name="calling_spoken">Calling %1$s</string>
+    <string name="calling_bar">Calling %1$s…</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="call_failed">Couldn\'t place the call: %1$s</string>
+    <string name="nickname_title">Voice nickname for %1$s</string>
+    <string name="nickname_message">Say this name to call them, e.g. “call mom”.</string>
+    <string name="nickname_hint">e.g. Mom, Bhai, Boss</string>
+    <string name="shortcut_voice_short">Voice call</string>
+    <string name="shortcut_voice_long">Call someone by voice</string>
+    <string name="help_title">How to use</string>
+    <string name="help_body">Tap Speak and say things like:\n\n• “Call Rahul”\n• “Call Mom on mobile”\n• “Dial Priya Sharma at work”\n• “Papa ko call karo”\n• “Call 98765 43210”\n\nThe app says who it\'s calling and waits 2.5 seconds so you can tap Cancel.\n\nLong-press a contact to give it a voice nickname (like “Mom” or “Bhai”).\n\nLong-press the app icon and choose “Voice call” to jump straight to listening, or turn on “Start listening when app opens” in this menu.</string>
+    <plurals name="contact_count">
+        <item quantity="one">%d contact</item>
+        <item quantity="other">%d contacts</item>
+    </plurals>
+</resources>
